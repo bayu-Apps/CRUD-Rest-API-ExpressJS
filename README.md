@@ -51,7 +51,7 @@ A simple yet powerful REST API built with **Express.js** and **PostgreSQL** to m
 npm install pg
 
 # Start the server
-node index.js
+node main.js
 
 🤓 Author
 Bayu Trihardian Syah
